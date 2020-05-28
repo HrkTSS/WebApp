@@ -1,0 +1,26 @@
+.site-header{
+    background-color: aquamarine;
+    color: darkolivegreen;
+    height: 100vh;
+    font-family: monospace;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.site-header-content{
+    margin: 10px;
+}
+.website-link{
+    color: darkolivegreen;
+}
+.prof-pic{
+    border-radius: 50%;
+    height: 200px;
+    width: 200px;
+    align-items: center;
+    box-shadow: #2c8c6c 2px 5px 3px;
+}
+body{
+    margin: 0;
+}
